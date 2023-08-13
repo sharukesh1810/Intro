@@ -1,0 +1,132 @@
+body{
+    width: 1440px;
+    margin:0;
+    padding:0;
+    background-color:hsl(0, 0%, 98%);
+    
+}
+.nav{
+    display :inline;
+    color:black;
+    font-size:18px;
+    padding:2px;
+    background-color:hsl(0, 0%, 41%);
+}
+li{
+    display:inline;
+    padding:2px 2px;
+}
+.menu a{
+    text-decoration:none;
+    color:black;
+}
+
+.logo{
+    font-size:40px;
+    text-transform:bolder;
+    margin:0;
+    padding:15px;
+    display :inline;
+    margin-left:0.5em;
+    margin-right:1.5em;
+}
+.snap{
+    transform:translatey(0.3em);
+}
+.right{
+    display :inline;
+    margin-left:40em;
+    align-item:center;
+    }
+    
+.right li{
+     display :inline;
+    padding:3px;
+}
+.menu{
+margin-left:-0.9em;
+display:inline;
+    padding:15px;
+    position: relative;;
+}
+.reg{
+    background-color: transparent;
+    padding:5px;
+    border:1px solid black;
+    width:70px ;
+    border-radius: 10px;
+    color:black;
+}
+table{
+    padding:4em;
+    margin-left:2.5rem;
+    
+    
+}
+.cls1{
+    width: 50%;
+    
+   
+}
+.head{
+  font-size:7rem;
+  text-transform:bolder;
+ 
+}
+.img{
+    width:95%;
+    margin-left:10%;
+}
+.para{
+    font-size:38px;
+}
+.btn{
+    background-color:hsl(0, 0%, 41%) ;
+    padding:20px;
+    width:25%;
+    color:white;
+    border-radius: 10px;
+    font-size:20px;
+}
+.btn:hover{
+    background-color: transparent;
+    color:black;
+}
+.click{
+   
+    margin-top:3em;
+}
+.icon{
+    width:20%;
+    margin:0;
+    padding:10px;
+}
+ul{
+  
+    padding:10px;
+}
+.submenu{
+    display :none;
+}
+.submenu li{
+    display:block;
+    margin-left:9.9em;
+    background-color:#ffeaeabb;
+    width:8%;
+    padding:4px;
+ }
+.dropmenu:hover .submenu{
+    display:block;
+}
+.dropmenu{
+    display :inline;
+}
+.top{
+    display :inline;
+}
+.dropmenu2{
+    display :inline;
+}
+
+
+
